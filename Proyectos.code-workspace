@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Tutorial",
+			"path": "../../../../../.vscode/Tutorial"
+		}
+	],
+	"settings": {}
+}
